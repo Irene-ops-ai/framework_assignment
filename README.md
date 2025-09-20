@@ -34,20 +34,20 @@ git clone https://github.com/yourusername/Frameworks_Assignment.git
 cd Frameworks_Assignment
 
 
-## 2. Install dependencies
+2. Install dependencies
 
 pip install -r requirements.txt
 
 2. Install dependencies
 
-### 3. Run Jupyter Notebook
+3. Run Jupyter Notebook
 jupyter notebook notebooks/iris_analysis.ipynb
 
-### 4. Run Streamlit App
+4. Run Streamlit App
 cd app
 streamlit run app.py
 
-##📈 Visualizations
+Visualizations
 Count plot of species
 
 Boxplot of petal length
@@ -56,7 +56,7 @@ Scatterplot of sepal length vs width
 
 Correlation heatmap
 
-## ✨ Reflection
+Reflection
 The Iris dataset is clean and balanced, which made analysis straightforward.
 
 Added a derived feature petal_area.
@@ -69,7 +69,7 @@ Challenge: selecting the most informative visualizations.
 
 Takeaway: Combining EDA and interactive apps is powerful for data communication.
 
-## 🛠️ Tech Stack
+Tech Stack
 Python 3.x
 
 Pandas
@@ -83,7 +83,7 @@ Streamlit
 
 ---
 
-## 📄 `requirements.txt`
+`requirements.txt`
 pandas
 seaborn
 matplotlib
@@ -93,12 +93,12 @@ jupyter
 
 ---
 
-## 📓 `notebooks/iris_analysis.ipynb`
+`notebooks/iris_analysis.ipynb`
 This will contain **all the code we wrote earlier** (Parts 1–3: loading, cleaning, analysis, visualization).  
 
 ---
 
-## 📄 `app/app.py`
+`app/app.py`
 This is the **Streamlit app code** (Part 4 above).  
 
 ---
