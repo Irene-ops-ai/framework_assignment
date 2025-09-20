@@ -3,7 +3,8 @@
 
 # 🌸 Frameworks Assignment – Iris Dataset
 
-## 📊 Overview
+##Overview
+
 This project explores the **Iris dataset** using **Pandas, Seaborn, Matplotlib, and Streamlit**.  
 It demonstrates the workflow of:
 1. Data loading & cleaning  
@@ -25,15 +26,19 @@ Frameworks_Assignment/
 
 ---
 
-## 🚀 How to Run
+## How to Run 
 
-### 1. Clone the repo
+## 1. Clone the repo
 ```bash
 git clone https://github.com/yourusername/Frameworks_Assignment.git
 cd Frameworks_Assignment
 
-### 2. Install dependencies
+
+## 2. Install dependencies
+
 pip install -r requirements.txt
+
+2. Install dependencies
 
 ### 3. Run Jupyter Notebook
 jupyter notebook notebooks/iris_analysis.ipynb
